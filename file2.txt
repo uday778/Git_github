@@ -1,7 +1,4 @@
 hey there !
-
 adde another one marketing inntern to team
-
-
-add footer section
+>>>>>>> bug-fix
 2025 is comming
