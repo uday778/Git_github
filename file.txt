@@ -6,3 +6,6 @@ another fix msg for grren mode
 
 
 2025 is comming
+
+
+another fix msg for pink mode while learning git rebase
